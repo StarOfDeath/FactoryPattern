@@ -5,4 +5,5 @@ package mx.iteso.factory.stores;
  */
 public class AnyKindPozoleStore {
 
+
 }

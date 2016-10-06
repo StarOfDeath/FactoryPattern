@@ -9,7 +9,7 @@ public class Pozolillo extends Pozole {
     public Pozolillo() {
         name = "Pozolillo";
         broth = "Caldo Rojo";
-        toppings.add("Oregano");
+        toppings.add("Elote");
         toppings.add("Col");
         toppings.add("Rabanos");
     }
