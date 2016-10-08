@@ -8,7 +8,7 @@ import mx.iteso.factory.Pozole;
 public class Pozolillo extends Pozole {
     public Pozolillo() {
         name = "Pozolillo";
-        broth = "Caldo Rojo";
+        broth = "Caldo Pozolillo";
         toppings.add("Elote");
         toppings.add("Col");
         toppings.add("Rabanos");

@@ -5,7 +5,7 @@ import mx.iteso.factory.Pozole;
 public class Menudo extends Pozole {
     public Menudo() {
         name = "Menudo";
-        broth = "Caldo Rojo";
+        broth = "Caldo Menudo";
         toppings.add("Oregano");
         toppings.add("Col");
         toppings.add("Rabanos");
